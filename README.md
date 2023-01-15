@@ -6,8 +6,8 @@
 
 ## In-progress / Active
 
-🧠 **Course Tracker - [repo](https://github.com/marcusgeorgievski/course-tracker-v2)** -> [**Click here to visit the site!**](https://course-tracker-v2.vercel.app/)
-- **DEMO :** Keep track of your courses and assessments. Quantify.
+🧠 **QuantiCourse - [repo](https://github.com/marcusgeorgievski/QuantiCourse)** -> [**Click here to visit the site!**](https://quanticourse-eight.vercel.app/)
+- **DEMO :** Keep track of your courses and assessments. Quantify your progress.
 
 🦾 **Svelte Components - [repo](https://github.com/marcusgeorgievski/svelte-components)** -> [**Click here to visit the site!**](https://svelte-components-three.vercel.app/)
 
