@@ -13,11 +13,11 @@
 
 - Collection of cards, navs, buttons, and more -> for personal practice
 
-## Not started
+## Coming Soon
 
 🇲🇰 **Macedonia Site - [repo](https://github.com/marcusgeorgievski/macedonia-travel-site)**
 
-## Some projects
+## Some Projects
 
 🔤 **React Wordle - [repo](https://github.com/marcusgeorgievski/react-wordle)**
 
