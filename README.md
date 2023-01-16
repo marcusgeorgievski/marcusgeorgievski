@@ -6,19 +6,19 @@
 
 ## In-progress / Active
 
-🧠 **QuantiCourse - [repo](https://github.com/marcusgeorgievski/QuantiCourse)** -> [**Click here to visit the site!**](https://quanticourse-eight.vercel.app/)
+🧠 **QuantiCourse - [Repo](https://github.com/marcusgeorgievski/QuantiCourse)** • [**Live site!**](https://quanticourse-eight.vercel.app/)
 - **DEMO :** Keep track of your courses and assessments. Quantify your progress.
 
-🦾 **Svelte Components - [repo](https://github.com/marcusgeorgievski/svelte-components)** -> [**Click here to visit the site!**](https://svelte-components-three.vercel.app/)
+🦾 **Svelte Components - [Repo](https://github.com/marcusgeorgievski/svelte-components)** • [**Live site!**](https://svelte-components-three.vercel.app/)
 
 - Collection of cards, navs, buttons, and more -> for personal practice
 
 ## Coming Soon
 
-🇲🇰 **Macedonia Site - [repo](https://github.com/marcusgeorgievski/macedonia-travel-site)**
+🇲🇰 **Macedonia Site - [Repo](https://github.com/marcusgeorgievski/macedonia-travel-site)**
 
 ## Some Projects
 
-🔤 **React Wordle - [repo](https://github.com/marcusgeorgievski/react-wordle)**
+🔤 **React Wordle - [Repo](https://github.com/marcusgeorgievski/react-wordle)**
 
-📊 **Indeed Skill Scrape - [repo](https://github.com/marcusgeorgievski/indeed-skill-scrape)**
+📊 **Indeed Skill Scrape - [Repo](https://github.com/marcusgeorgievski/indeed-skill-scrape)**
