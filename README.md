@@ -15,6 +15,8 @@
 
 ## Coming Soon
 
+🪐 **Personal Site** 
+
 🇲🇰 **Macedonia Site - [Repo](https://github.com/marcusgeorgievski/macedonia-travel-site)**
 
 ## Some Projects
