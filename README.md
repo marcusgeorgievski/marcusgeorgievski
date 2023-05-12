@@ -8,19 +8,23 @@
 
 ### 🌍 Personal site ☞ [marcusgeorgievski.com](https://marcusgeorgievski.com)
 - About me + check out my notes/posts
+- `Next.js`, `React`, `Tailwind`
 
 
 ### 📊 Indeed Skill Scrape - [Repo](https://github.com/marcusgeorgievski/indeed-skill-scrape)
 
-  - Web scraping, data cleaning and manipulation, data visualization
+  - Web scraping, data cleaning, data manipulation, data visualization
+  - `Python`, `Selenium`, `bs4`, `pandas`, `matplotlib`
    
 ## Other Stuff
   
 🧠 **QuantiCourse - [Repo](https://github.com/marcusgeorgievski/QuantiCourse)** 
-- Keep track of your courses and assessments, quantify your progress with extrapolated data
+  - Experimenting with `svelte` + flowbite to keep track of courses and extract data
 
 🦾 **Svelte Components - [Repo](https://github.com/marcusgeorgievski/svelte-components)** 
 
-- Collection of cards, navs, buttons, and more for personal practice
+- Collection of cards, navs, buttons, and more for practice
 
 🔤 **React Wordle - [Repo](https://github.com/marcusgeorgievski/react-wordle)**
+
+  - Wordle clone with `React`
