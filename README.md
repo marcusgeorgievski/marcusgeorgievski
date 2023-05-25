@@ -24,3 +24,7 @@
 🔤 **React Wordle - [Repo](https://github.com/marcusgeorgievski/react-wordle)**
 
   - Wordle clone with `React`
+
+ </br>
+ 
+ #### LinkedIn: [@marcusgeorgievski](https://www.linkedin.com/in/marcusgeorgievski/)
