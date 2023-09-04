@@ -4,23 +4,23 @@
 
 ## Projects 
 
-### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app)
+### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app){:target=”_blank”} 
 - Full stack application to create, explore, and showcase any coding relating projects!
 - Manage your projects by planning features, creating issues, and categotizing projects by tag
 - Login with Github credentials and customize your new account
 - `Next.js`, `TypeScript` `PostgreSQL`, `Prisma`, `Authentication`, `CRUD`
 
-### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/)
+### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/){:target=”_blank”} 
 - Create a collection of your plants to share with others!
 - Login with Google Authentication and create your account
 - Create, view, edit, and delete plants - stored in a postgres database
 - `Next.js`, `PostgreSQL`, `Prisma`, `Authentication`, `CRUD`
 
-### 📊 Indeed Skill Scrape - [Repo](https://github.com/marcusgeorgievski/indeed-skill-scrape)
+### 📊 Indeed Skill Scrape - [Repo](https://github.com/marcusgeorgievski/indeed-skill-scrape){:target=”_blank”} 
   - Web scraping, data cleaning, data manipulation, data visualization
   - `Python`, `Selenium`, `bs4`, `pandas`, `matplotlib`
 
-### 🌍 Personal site ☞ [marcusgeorgievski.com](https://marcusgeorgievski.com)
+### 🌍 Personal site ☞ [marcusgeorgievski.com](https://marcusgeorgievski.com){:target=”_blank”} 
 - About me + notes
 - `Next.js`, `React`, `Tailwind`
 
