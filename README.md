@@ -10,6 +10,12 @@
 - Login with Github credentials and customize your new account
 - `Next.js`, `TypeScript` `PostgreSQL`, `Prisma`, `Authentication`, `CRUD`
 
+### 🤖💬 OpenAI/ChatGPT Chatbot Demo ☞ [Repo](https://github.com/marcusgeorgievski/openai-chatbot)
+- Utilizing OpenAI API to create a AI chatbot for any site
+- Provided fake sitemap and prompt to tune answers however developer likes
+- Recieve response as a stream to visualize chatbot's live response updating
+- `OpenAI`, `AI`, `Next.js`
+
 ### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/)
 - Create a collection of your plants to share with others!
 - Login with Google Authentication and create your account
