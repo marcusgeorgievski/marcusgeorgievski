@@ -8,7 +8,7 @@
 
 ## Projects 
 
-### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app/)
+### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app/) - [Repo](https://github.com/marcusgeorgievski/codehome)
 - Full stack application to create, explore, and showcase any coding relating projects!
 - Manage your projects by planning features, creating issues, and categotizing projects by tag
 - Login with Github credentials and customize your new account
@@ -25,12 +25,8 @@
 - `Python`, `Selenium`, `bs4`, `pandas`, `matplotlib`
 
 
-### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/)
+### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/) - [Repo](https://github.com/marcusgeorgievski/myFlora)
 - Create a collection of your plants to share with others!
 - Login with Google Authentication and create your account
 - Create, view, edit, and delete plants - stored in a postgres database
 - `Next.js`, `PostgreSQL`, `Prisma`, `Authentication`, `CRUD`
-
- </br>
- 
- #### LinkedIn: [@marcusgeorgievski](https://www.linkedin.com/in/marcusgeorgievski/)
