@@ -8,13 +8,14 @@
 
 ## Projects 
 
-### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app/) - [Repo](https://github.com/marcusgeorgievski/codehome)
+### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app/) || [Repo](https://github.com/marcusgeorgievski/codehome)
 - Full stack application to create, explore, and showcase any coding relating projects!
 - Manage your projects by planning features, creating issues, and categotizing projects by tag
 - Login with Github credentials and customize your new account
 - `Next.js`, `TypeScript` `PostgreSQL`, `Prisma`, `Authentication`, `CRUD`
 
-### 🤖💬 OpenAI/ChatGPT Chatbot Demo ☞ [Repo](https://github.com/marcusgeorgievski/openai-chatbot)
+
+### 🤖💬 OpenAI/ChatGPT Chatbot Demo ☞ [Live](https://openai-chatbot-demo.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/openai-chatbot)
 - Utilizing OpenAI API to create a AI chatbot for any site
 - Provided sitemap and custom prompt format to tune answers however developer likes
 - Recieve response as a stream to visualize chatbot's live response updating
@@ -25,7 +26,7 @@
 - `Python`, `Selenium`, `bs4`, `pandas`, `matplotlib`
 
 
-### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/) - [Repo](https://github.com/marcusgeorgievski/myFlora)
+### 🌱 myFlora ☞ [myFlora.com](https://my-flora-xi.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/myFlora)
 - Create a collection of your plants to share with others!
 - Login with Google Authentication and create your account
 - Create, view, edit, and delete plants - stored in a postgres database
