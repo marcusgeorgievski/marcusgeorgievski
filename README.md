@@ -8,7 +8,7 @@
 
 ## Projects 
 
-### 🤖 OpenAI API ☞ [Live](https://openai-chatbot-demo.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/openai-api)
+### 🤖 OpenAI API ☞ [Live](https://openai-api-blush.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/openai-api)
 - Utilizing OpenAI API to create a AI chatbot for any purpose
 - Allows user to customize role of chatbot with any personal data or instructions
 - All chat details will rbe remembered for its duration
