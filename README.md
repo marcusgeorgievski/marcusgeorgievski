@@ -11,7 +11,7 @@
 ### 🤖 OpenAI API ☞ [Live](https://openai-api-blush.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/openai-api)
 - Utilizing OpenAI API to create a AI chatbot for any purpose
 - Allows user to customize role of chatbot with any personal data or instructions
-- All chat details will rbe remembered for its duration
+- All chat details will be remembered for its duration
 - `OpenAI`, `AI`, `Next.js`
 
 ### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app/) || [Repo](https://github.com/marcusgeorgievski/codehome)
