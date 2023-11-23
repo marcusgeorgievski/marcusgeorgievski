@@ -8,18 +8,17 @@
 
 ## Projects 
 
+### 🤖 OpenAI API ☞ [Live](https://openai-chatbot-demo.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/openai-api)
+- Utilizing OpenAI API to create a AI chatbot for any purpose
+- Allows user to customize role of chatbot with any personal data or instructions
+- All chat details will rbe remembered for its duration
+- `OpenAI`, `AI`, `Next.js`
+
 ### 👨‍💻 codeHome ☞ [codehome.app](https://codehome.app/) || [Repo](https://github.com/marcusgeorgievski/codehome)
 - Full stack application to create, explore, and showcase any coding relating projects!
 - Manage your projects by planning features, creating issues, and categotizing projects by tag
 - Login with Github credentials and customize your new account
 - `Next.js`, `TypeScript` `PostgreSQL`, `Prisma`, `Authentication`, `CRUD`
-
-
-### 🤖💬 OpenAI/ChatGPT Chatbot Demo ☞ [Live](https://openai-chatbot-demo.vercel.app/) || [Repo](https://github.com/marcusgeorgievski/openai-chatbot)
-- Utilizing OpenAI API to create a AI chatbot for any site
-- Provided sitemap and custom prompt format to tune answers however developer likes
-- Recieve response as a stream to visualize chatbot's live response updating
-- `OpenAI`, `AI`, `Next.js`
 
 ### 📊 Indeed Skill Scrape - [Repo](https://github.com/marcusgeorgievski/indeed-skill-scrape)
 - Web scraping, data cleaning, data manipulation, data visualization
