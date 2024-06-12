@@ -1,8 +1,9 @@
 ## Hey, I'm Marcus!
 
-<a href='https://www.linkedin.com/in/marcusgeorgievski'><img align='left' alt="linkedin" src="assets/linkedin.png" height='22px'/></a>
-<a href='https://marcusgeorgievski.com'><img align='left' alt="website" src="assets/computer.png" height='22px'/></a>
+<a href='https://www.linkedin.com/in/marcusgeorgievski'><img align='left' alt="linkedin" src="assets/linkedin.png" height='35px'/></a>
+<a href='https://marcusgeorgievski.com'><img align='left' alt="website" src="assets/computer.png" height='35px'/></a>
 
+<br/>
 <br/>
 
 ### About Me:
@@ -14,6 +15,8 @@
 <br>
 
 ### 🔨 Languages and Tools:
+
+<br>
 
 <a href="#" target="_blank"> <img align="left" src="assets/go.png" alt="go" height="42px"/></a>
 <a href="#" target="_blank"> <img align="left" src="assets/docker.png" alt="docker" height="42px"/></a>
