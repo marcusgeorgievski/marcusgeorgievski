@@ -6,22 +6,18 @@
 <br/>
 <br/>
 
-### About Me:
+### About Me
 
 - ☁️ &nbsp; Currently interested in Cloud Development and DevOps, focusing on leveraging cloud services and automation to create scalable and efficient solutions
 - 💻 &nbsp; Experienced in Fullstack Development with TypeScript/js and Next.js, building dynamic and responsive web applications
 - 🧠 &nbsp; Currently learning Golang for cloud services for backend development
 
+
+### Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=go,docker,python,postgres,typescript,react,nextjs,cpp,aws" height="50px"/>
+
+<br>
 <br>
 
-### 🔨 Languages and Tools:
-
-<br>
-
-<a href="#" target="_blank"> <img align="left" src="assets/go.png" alt="go" height="42px"/></a>
-<a href="#" target="_blank"> <img align="left" src="assets/docker.png" alt="docker" height="42px"/></a>
-<a href="#" target="_blank"> <img align="left" src="assets/python.png" alt="python" height="42px"/></a>
-<a href="#" target="_blank"> <img align="left" src="assets/postgresql.png" alt="react" height="42px"/></a>
-<a href="#" target="_blank"> <img align="left" src="assets/ts.png" alt="typescript" height="42px"/></a>
-<a href="#" target="_blank"> <img align="left" src="assets/react.png" alt="react" height="42px"/></a>
-<a href="#" target="_blank"> <img align="left" src="assets/nextjs.png" alt="next.js" height="42px"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusgeorgievski&layout=compact&)
