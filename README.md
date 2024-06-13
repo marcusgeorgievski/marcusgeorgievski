@@ -15,7 +15,7 @@
 
 ### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=go,docker,python,postgres,typescript,react,nextjs,cpp,aws" height="50px"/>
+<img src="https://skillicons.dev/icons?i=go,docker,python,postgres,typescript,react,nextjs,cpp,aws" height="90px"/>
 
 <br>
 <br>
