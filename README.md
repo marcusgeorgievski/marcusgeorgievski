@@ -9,9 +9,9 @@
 
 ### About Me
 
-- 💻 &nbsp; Experienced in Fullstack Development with TypeScript and Next.js, building dynamic and responsive web apps
-- ☁️ &nbsp; Currently interested in Cloud Development and DevOps, focusing on leveraging cloud services and automation to create scalable and efficient solutions
-- 🧠 &nbsp; Currently learning Golang, Docker, and AWS for backend development with the cloud
+- 💻 &nbsp; Experienced in Fullstack Development with **TypeScript**, **React,** and **Next.js**, building dynamic and responsive web apps
+- ☁️ &nbsp; Currently interested in **backend development**, **cloud development** and **devops**, focusing on leveraging cloud services and automation to create scalable and efficient solutions
+- 🧠 &nbsp; Currently working with **Golang**, **Docker**, and **AWS**
 
 ### Languages and Tools
 
