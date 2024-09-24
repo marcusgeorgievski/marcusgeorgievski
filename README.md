@@ -14,7 +14,7 @@
 - 👨‍💻  &nbsp; Currently a Software Developer @ KORE Solutions working with **.NET** and **Azure**
 - 💻 &nbsp; Experienced in Fullstack Development with **TypeScript**, **React,** and **Next.js**
 - ☁️ &nbsp; Currently interested in **backend development**, **cloud development** and **devops**
-- 🧠 &nbsp; Currently working with **Golang**, **Docker**, and **AWS**
+- 🧠 &nbsp; Currently working with **Golang**, **Docker**, and **AWS** for personal projects
 
 ### Languages and Tools
 
