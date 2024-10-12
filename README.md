@@ -1,4 +1,4 @@
-## Hey, I'm Marcus 👋
+## Hey
 
 
 
@@ -11,10 +11,10 @@
 
 ### About Me
 
-- 👨‍💻  &nbsp; Currently a Software Developer @ KORE Solutions working with **.NET** and **Azure**
-- 💻 &nbsp; Experienced in Fullstack Development with **TypeScript**, **React,** and **Next.js**
-- ☁️ &nbsp; Currently interested in **backend development**, **cloud development** and **devops**
-- 🧠 &nbsp; Currently working with **Golang**, **Docker**, and **AWS** for personal projects
+- 👨‍💻 &nbsp; Software Developer @ KORE Solutions working with `.NET`, `Angular`, and `Azure`
+- 💻 &nbsp; Experienced in Fullstack Development with `TypeScript`, `React,` and `Next.js`
+- ☁️ &nbsp; Interested in `backend development`, `cloud development` and `devops`
+- ⌘ &nbsp;  `Golang`-ing
 
 ### Languages and Tools
 
@@ -25,5 +25,4 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusgeorgievski&layout=compact&" alt="Top Langs" style="margin-right: 10px;"/>
-  <img src="https://streak-stats.demolab.com?user=marcusgeorgievski&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_height=120&hide_longest_streak=true" alt="GitHub Streak"/>
 </div>
