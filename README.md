@@ -9,8 +9,8 @@
 
 -  Software Developer @ **KORE Solutions** working with `.NET`, `Angular`, and `Azure`
 -  Prev Full-Stack Developer @ **Seneca Polytechnic**
--  Experienced in Fullstack Development with `TypeScript`, `React,` and `Next.js`
 -  Interested in `backend development`, `system design` and `devops`
+-  Experienced in Fullstack Development with `TypeScript` and `React`
 
 
 ### Languages and Tools
