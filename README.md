@@ -11,10 +11,9 @@
 
 ### About Me
 
-- 👨‍💻 &nbsp; Software Developer @ KORE Solutions working with `.NET`, `Angular`, and `Azure`
-- 💻 &nbsp; Experienced in Fullstack Development with `TypeScript`, `React,` and `Next.js`
-- ☁️ &nbsp; Interested in `backend development`, `cloud development` and `devops`
-- ⌘ &nbsp;  `Golang`-ing
+-  Software Developer @ KORE Solutions working with `.NET`, `Angular`, and `Azure`
+-  Experienced in Fullstack Development with `TypeScript`, `React,` and `Next.js`
+-  Interested in `backend development`, `system design` and `devops`
 
 ### Languages and Tools
 
